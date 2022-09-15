@@ -182,6 +182,10 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/7186e4e47b4743debef7e69b901686c5
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,rtmp://pull-f5-spe.ixigua.com/live/rtmvqpiovjxzoifjegojszxcvlgifvhngliggobiggsvhgchtvbs
+TVBS-HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS-HD,https://git.io/JgYl2
+TVBS-HD,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=95
+TVBS-HD,http://liuy.usa7.20212021.ga/ns.php?id=37
 TVBS-HD,http://146.56.155.239:9000/jmsytb.m3u8?c=30
 TVBS-HD,http://stream.naihe.cf/channel.m3u8?fid=4gtv-4gtv073
 TVBS-HD,http://sam.sam521.xyz:9000/jmsytb.m3u8?c=30
@@ -195,7 +199,6 @@ TVBS-HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=
 TVBS-HD,http://127.0.0.1:17173/192.99.160.105:20000/stream/GEMINI1657899438041884-9321343/tvbs/master.m3u8
 TVBS-HD,http://seb.sason.top/sc/tvbs_fhd.m3u8
 TVBS-HD,http://50.7.218.42:8278/tvbs/playlist.m3u8
-TVBS-HD,https://git.io/JgYl2
 TVBS-HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS-HD,http://119.29.145.154:9999/hhh1.php?tid=gt&id=95
 TVBS-HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
@@ -208,6 +211,13 @@ TVBS-HD,mitv://45.92.126.18:9906/62541264000b8c2809563c340355f46f
 TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
 东森新闻,rtmp://pull-f5-spe.ixigua.com/live/rtmvmhrttuigcvbyiuokjkgegywefggfbxfbxxvbzgklgqhgsxw
+东森新闻,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/451f0cdd-b2a7-4f08-85d9-d786b6b3423a.m3u8
+东森新闻,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=55
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 东森新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=22
 东森新闻,http://sam.sam521.xyz:9000/jmsytb.m3u8?c=22
 东森新闻,http://59.125.122.90:18512/.m3u8
