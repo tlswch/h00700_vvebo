@@ -27,17 +27,10 @@
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"我的豆瓣","name":"导航┃我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XYQBiu_17kan","name":"体育┃一起看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XYQBiu/17kan.json"},
+{"key":"csp_XYQBiu_17kan","name":"体育┃一起看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XYQBiu/17kan_1.json"},
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XPath/jrskan.json"},
 {"key":"csp_XYQBiu_310直播","name":"体育┃310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XYQBiu/310tv.json"},
-{"key":"csp_xpath_88kanqiu","name":"88看球","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/profile/xp/88kanqiu.json"},
-{"key":"csp_xpath_88看球","name":"看球(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/88kanqiu.json"},
 
-
-{"key":"csp_Blixs","name":"哔哩┃相声小品","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"奈落影院","name":"影视┃奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小宝影院","name":"影视┃小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Nfyun","name":"影视┃奈非云播","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_直播合集","name":"直播┃四站合一","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt","jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key":"csp_Anime1","name":"动漫┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
