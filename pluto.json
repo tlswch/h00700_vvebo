@@ -34,11 +34,8 @@
 {"key":"csp_直播合集","name":"直播┃四站合一","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt","jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
 
-{"key":"csp_SP293","name":"影视┃293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/293.png;md5;A523814659F4BF773511C80E16B8F9A1"},
-{"key":"csp_Jianying","name":"影视┃简影影视","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzk2MSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNVQwOTo1NjozOC41MzErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE1VDA5OjU2OjM4LjUzMSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijg2NzMzNzkzNUBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI2NWFlZDQ0My02ZmFhLTQyMTYtYTU2Mi04Y2YyZjlmZjk1ZGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzgxMTgwNCwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.t0xl2Grj9CzjcbzL7538Q0Kb7rDTvB90qz7A0I24KLs"},
-{"key":"DJ-XB-听书网","name":"听书网(XB无画面)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/dongji2/tt/raw/master/collection/xb/tingbook.json"},
+{"key":"DJ-XB-听书网","name":"听书┃只听其声","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/dongji2/tt/raw/master/collection/xb/tingbook.json"},
 
-{"key":"csp_Kunyu77","name":"影视┃酷云新七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/77new.jar;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bttoo","name":"影视┃宝塔影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"影视┃EEE电影","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -55,8 +52,9 @@
 {"key":"追剧喵","name":"影视┃追剧喵喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"影视┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_SP293","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP293","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Kunyu77","name":"影视┃酷云新七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/77new.jar;md5;2F19C527B9A335FB1415C5F9686515C8"},
 
 {"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/6d.json"},
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/tegou.json"},
@@ -81,8 +79,8 @@
 
 //{"key":"py_cctv","name":"直播┃央视CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/python/py_cctv.py"},
 
-{"key":"csp_Alist","name":"Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Alist.json"},
-{"key":"csp_bendi","name":"本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quckSearch":0,"filterable":0,"type_flag":1},
+//{"key":"csp_Alist","name":"Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Alist.json"},
+//{"key":"csp_bendi","name":"本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quckSearch":0,"filterable":0,"type_flag":1},
 
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_易搜资源","name":"阿里┃易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
