@@ -30,8 +30,8 @@
 {"key":"csp_XYQBiu_17kan","name":"体育┃一起看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XYQBiu/17kan.json"},
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XPath/jrskan.json"},
 {"key":"csp_XYQBiu_310直播","name":"体育┃310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XYQBiu/310tv.json"},
-{"key":"csp_xpath_88kanqiu","name":"⚽️88看球〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/profile/xp/88kanqiu.json"},
-{"key":"csp_xpath_88看球","name":"🎱🎱看球(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/88kanqiu.json"},
+{"key":"csp_xpath_88kanqiu","name":"88看球","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/profile/xp/88kanqiu.json"},
+{"key":"csp_xpath_88看球","name":"看球(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/88kanqiu.json"},
 
 
 {"key":"csp_Blixs","name":"哔哩┃相声小品","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
@@ -73,22 +73,22 @@
 {"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/6d.json"},
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/tegou.json"},
 {"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/honglingjin.json"},
-{"key":"csp_biubiu_小猫咪","name":"🥒小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/小猫咪.json"},
-{"key":"csp_biubiu_飘花播播","name":"🥒飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/飘花播播.json"},
-{"key":"csp_xpath_Grab4K","name":"👕Grab4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/Grab4K.json"},
+{"key":"csp_biubiu_小猫咪","name":"小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/小猫咪.json"},
+{"key":"csp_biubiu_飘花播播","name":"飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/飘花播播.json"},
+{"key":"csp_xpath_Grab4K","name":"Grab4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/Grab4K.json"},
 {"key":"csp_xpath_rttks","name":"人人影视(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/rttks.json"},
 
 {"key":"csp_xpath_独播库","name":"独播库(XPF)","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
 {"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/yinfans.json"},
 
-{"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/蚂蚁4K.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
+{"key":"csp_QXBiubiu_蚂蚁4K","name":"蚂蚁4K(QXB)","type":3,"api":"csp_QXBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/QXB/蚂蚁4K.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 
 
 {"key":"小猫咪","name":"影视┃小猫影视┃","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
 {"key":"考拉TV","name":"影视┃考拉影视","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AppYsV2","name":"影视┃优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
-{"key":"csp_Alist1","name":"🍰Alist🍰","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://download.kstore.space/download/2863/alist.jar"},
+{"key":"csp_Alist1","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://download.kstore.space/download/2863/alist.jar"},
 //{"key":"csp_bendi","name":"聚合┃本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
 {"key":"t4public","name":"聚合┃T4公共源","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
