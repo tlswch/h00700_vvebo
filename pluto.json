@@ -62,8 +62,8 @@
 {"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/6d.json"},
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/tegou.json"},
 {"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/honglingjin.json"},
-{"key":"csp_biubiu_小猫咪","name":"小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/小猫咪.json,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/XBiubiu.jar"},
-{"key":"csp_biubiu_飘花播播","name":"飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/飘花播播.json,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/XBiubiu.jar"},
+{"key":"csp_biubiu_小猫咪","name":"小猫咪(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/小猫咪.json",jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/XBiubiu.jar"},
+{"key":"csp_biubiu_飘花播播","name":"飘花播播(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/飘花播播.json",jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/XBiubiu.jar"},
 {"key":"mtv_pc_yinfans","name":"4K┃音范丝源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/yinfans.json"},
 
 {"key":"csp_AppYsV2","name":"影视┃优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
