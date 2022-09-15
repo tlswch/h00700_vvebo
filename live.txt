@@ -182,7 +182,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/7186e4e47b4743debef7e69b901686c5
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,rtmp://pull-f5-spe.ixigua.com/live/rtmvqpiovjxzoifjegojszxcvlgifvhngliggobiggsvhgchtvbs
-TVBS-HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS-HD,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS-HD,https://git.io/JgYl2
 TVBS-HD,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=95
 TVBS-HD,http://liuy.usa7.20212021.ga/ns.php?id=37
@@ -212,10 +212,10 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
 东森新闻,rtmp://pull-f5-spe.ixigua.com/live/rtmvmhrttuigcvbyiuokjkgegywefggfbxfbxxvbzgklgqhgsxw
 东森新闻,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/451f0cdd-b2a7-4f08-85d9-d786b6b3423a.m3u8
+东森新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+东森新闻,https://ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 东森新闻,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=55
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-东森新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 东森新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=22
