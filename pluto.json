@@ -9,7 +9,7 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "wallpaper":"https://gitea.com/vvebo/vvebo/raw/branch/main/wallpaper/03.png;md5;6F419DFED4C0F64EE296FE7100A6BEEB",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vMDA3MDAvdG9tYXRvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGVhLmNvbS92dmViby92dmViby9yYXcvYnJhbmNoL21haW4vbGl2ZS50eHQ="]}]}],
 
 //"drives":[{"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
 //{"name":"99T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
@@ -62,7 +62,7 @@
 {"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/6d.json"},
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/tegou.json"},
 {"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/XBiubiu/honglingjin.json"},
-{"key":"mtv_pc_yinfans","name":"4K┃音范丝源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/yinfans.json"},
+{"key":"mtv_pc_yinfans","name":"影视┃音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/XSVIP/VIP/raw/branch/TV/xpath/yinfans.json"},
 
 {"key":"csp_AppYsV2","name":"影视┃优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 
