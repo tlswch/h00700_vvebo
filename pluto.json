@@ -33,7 +33,6 @@
 
 {"key":"csp_直播合集","name":"直播┃四站合一","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt","jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
-{"key":"csp_Anime1","name":"动漫┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP293","name":"影视┃293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/293.png"},
 
