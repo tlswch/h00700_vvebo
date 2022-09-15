@@ -35,9 +35,7 @@
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt","jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key":"csp_Anime1","name":"动漫┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
-
-//{"key":"py_cctv","name":"直播┃央视CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/python/py_cctv.py"},
-
+{"key":"csp_SP293","name":"影视┃293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/293.png"},
 
 {"key":"csp_Kunyu77","name":"影视┃酷云新七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/vvebo/vvebo/raw/branch/main/spider/77new.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
@@ -79,6 +77,8 @@
 
 //{"key":"T4","name":"聚合┃T4爬虫源","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://cn-cd-dx-2.natfrp.cloud:44327/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"t4test","name":"T4测试(搜索)","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
+
+//{"key":"py_cctv","name":"直播┃央视CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/python/py_cctv.py"},
 
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_易搜资源","name":"阿里┃易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
