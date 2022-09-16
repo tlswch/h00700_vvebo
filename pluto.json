@@ -34,13 +34,14 @@
 {"key":"csp_Auete","name":"影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"影视┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DY1990","name":"影视┃1990电影","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"ASMR","name":"影视┃ASMR19","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"ASMR","name":"成人┃ASMR18","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 //{"key":"csp_Nbys","name":"影视┃泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"if101资源","name":"✈影视┃if101(需翻墙)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-//{"key":"csp_SP293","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kunyu77","name":"影视┃酷云新七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/77new.jar;md5;2F19C527B9A335FB1415C5F9686515C8"},
+//{"key":"csp_SP293","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_DY1990","name":"影视┃1990电影","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_六度影视","name":"影视┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/6d.json"},
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tegou.json"},
