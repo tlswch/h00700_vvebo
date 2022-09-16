@@ -19,7 +19,7 @@
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bttoo","name":"影视┃宝塔影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"3EDY","name":"影视┃EEE电影","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"3EDY","name":"影视┃飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"555电影","name":"影视┃三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"quickSearch":1,"searchable":1},
