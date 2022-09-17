@@ -31,7 +31,9 @@
 //token=dcbc975ad0684eb5a498ecd1836272e6
 //token=77bad5a7fdcc40ba99f5f92bf93bb2f7
 
-//T4网络接口,http://cms.nokia.press/vod?rule=vip影视
+//T4网络接口,后面可以接
+555影视,cokemv,LIBVIO,vip影院,万能影视,养端,剧白白,喵喵,在线之家,夜空,干饭影视,影视工厂,玩偶姐姐,瓜皮TV,看视界,莫扎兔,蓝光影院,蓝莓影视,鸭奈飞
+//http://cms.nokia.press/vod?rule=vip影视
 
 
 
