@@ -35,6 +35,7 @@
 555影视,cokemv,LIBVIO,vip影院,万能影视,养端,剧白白,喵喵,在线之家,夜空,干饭影视,影视工厂,玩偶姐姐,瓜皮TV,看视界,莫扎兔,蓝光影院,蓝莓影视,鸭奈飞
 //http://cms.nokia.press/vod?rule=555影视
 
+//{"key":"csp_XYQHiker","name":"XYQ | 冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQPlugin/%e5%86%b7%e6%9b%a6.json"},
 
 
 //{"key":"T4","name":"聚合┃T4爬虫源","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://cn-cd-dx-2.natfrp.cloud:44327/","searchable":1,"quickSearch":1,"filterable":1},
