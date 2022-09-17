@@ -4,6 +4,13 @@
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
+
+{"key":"qq","name":"T4-腾讯","type":4,"api":"http://home.jundie.top:666/psp/qq.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
 //{"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nbys","name":"影视┃泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
