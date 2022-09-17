@@ -45,6 +45,10 @@
 //{"key":"spider_IKan","name":"影视┃爱看影视","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 //{"key":"csp_SP293","name":"影视┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DY1990","name":"影视┃1990影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_LiteApple","name":"影视┃小苹果源(有广告)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_IQIYI","name":"官方┃爱奇艺源","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_QQ","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_MGTV","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_特狗影视","name":"影视┃特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tegou.json"},
 {"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/honglingjin.json"},
