@@ -184,6 +184,7 @@ TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,rtmp://pull-f5-spe.ixigua.com/live/rtmvqpiovjxzoifjegojszxcvlgifvhngliggobiggsvhgchtvbs
 TVBS-HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS-HD,https://git.io/JgYl2
+TVBS-HD,http://www.295ys.gq/sb.php?id=37
 TVBS-HD,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=95
 TVBS-HD,http://liuy.usa7.20212021.ga/ns.php?id=37
 TVBS-HD,http://146.56.155.239:9000/jmsytb.m3u8?c=30
@@ -218,6 +219,13 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
+东森新闻,http://59.125.122.90:18512/.m3u8
+东森新闻,http://live.zapi.ml:18512/.m3u8
+东森新闻,http://www.295ys.cf/api.php?id=52
+东森新闻,http://www.295ys.gq/sb.php?id=33
+东森新闻,http://www.295ys.cf/api.php?id=94
+东森新闻,http://8.210.36.158/cu/twlive.php?id=live1014
 东森新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=22
 东森新闻,http://sam.sam521.xyz:9000/jmsytb.m3u8?c=22
 东森新闻,http://59.125.122.90:18512/.m3u8
@@ -365,6 +373,9 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
+纬来体育,http://www.295ys.cf/api.php?id=14
+纬来体育,rtmp://9hv1.mine.nu:1935/sat/tv721
+纬来体育,http://114.34.191.36:8563/.m3u8
 纬来体育,http://iptv.everydaytv.top/taiwanlive.php?id=59
 纬来体育,rtmp://pull-f5-spe.ixigua.com/live/rtmvefzkxchghgpfgxcvjwpejypwepjrxfcvnxvsgklghsgfhwlty
 纬来体育,http://218.32.47.179:18563/.m3u8
