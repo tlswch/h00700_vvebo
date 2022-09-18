@@ -40,7 +40,7 @@
 {"key":"csp_红领巾源","name":"影视┃红领巾源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/honglingjin.json"},
 {"key":"csp_yinfans","name":"影视┃音范丝4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/yinfans.json"},
 
-{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/dr_py.jar;md5;7DF0E7CEDFFCEF1D3B0F529978A4F15C"},
 
 {"key":"csp_AppYsV2","name":"影视┃优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"多多","name":"影视┃多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
