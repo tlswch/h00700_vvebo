@@ -61,7 +61,7 @@
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜","dbm3u8","mgtv","芒果","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-
+{"name":"fositv","type":0,"url":"https://play.fositv.com/?url="},
 {"name":"盘古1","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name":"纯净/B站","type":0,"url":"https://z1.m1907.cn/?jx="},
 {"name":"Web","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}},
