@@ -12,6 +12,10 @@
 //{"key":"dr_兔小贝","name":"影视┃兔小贝源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
 
+//{"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"小熊","name":"影视┃小熊影视","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Smdyy_spider","name":"影视┃神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"追剧喵","name":"影视┃追剧喵喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
