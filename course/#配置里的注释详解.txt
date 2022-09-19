@@ -56,7 +56,7 @@
 {"key":"csp_找资源搜","name":"阿里┃找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 
 //token=
-//token=
+//token=7bb5b24ca3274ad781a6071082e9eebd
 //token=cb342129366f422aa3ee4509653f8d3b
 //token=29975243e264440b85919670b76916c4
 //token=a60a9387a6124e47ac78c726a02dba6d
