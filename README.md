@@ -7,5 +7,4 @@
 # pluto-player:https://github.com/pluto-player/updates
 # 官仓0718封仓:https://github.com/CatVodTVOfficial/TVBoxOSC.git
 # clanTV:https://github.com/clanTV/clanTV.git
-# Core内置源:https://gitea.com/apkcore/apk_release
 # 道长:https://gitcode.net/qq_32394351/dr_py
