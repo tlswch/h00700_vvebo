@@ -54,9 +54,9 @@
 
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"M1","type":0,"url":"https://play.fositv.com/?url="},
-{"name":"M2","type":0,"url":"https://jiexi.555jiexi.net:555/player/analysis.php?v="},
-{"name":"M3","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
-{"name":"M4","type":0,"url":"https://svip.oh5.cc/?url="},
+{"name":"M2","type":0,"url":"https://svip.oh5.cc/?url="},
+{"name":"M3","type":0,"url":"https://jiexi.555jiexi.net:555/player/analysis.php?v="},
+{"name":"M4","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
 {"name":"M5","type":0,"url":"https://okjx.cc/?url="},
 {"name":"M6","type":0,"url":"https://okjx.cc/?url=","mobile":1},
 {"name":"M7","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
