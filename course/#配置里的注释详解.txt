@@ -12,7 +12,7 @@
 //{"key":"dr_兔小贝","name":"影视┃兔小贝源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
 
-//{"key":"csp_360","name":"聚合┃360导航","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_360","name":"聚合┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bttoo","name":"影视┃宝塔影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Lib","name":"影视┃利维影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Auete","name":"影视┃奥特影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
