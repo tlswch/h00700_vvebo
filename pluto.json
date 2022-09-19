@@ -8,6 +8,8 @@
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"我的豆瓣","name":"导航┃我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_360","name":"推荐┃360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_XYQBiu_17kan","name":"体育┃一起看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/17kan_2.json"},
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan.json"},
 {"key":"csp_XYQBiu_310直播","name":"体育┃310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/310tv.json"},
