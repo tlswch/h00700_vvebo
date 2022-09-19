@@ -364,6 +364,7 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
+五星体育,http://222.65.19.155:4022/udp/239.45.3.210:5140
 五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
