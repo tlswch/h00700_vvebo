@@ -1,6 +1,6 @@
 //"wallpaper":"https://jnlzy.tk/",
 //"wallpaper":"https://tool.weetai.cn/api",
-//wallpaper":"https://api.lr-jia.cn/api/dnmm",
+//"wallpaper":"https://api.lr-jia.cn/api/dnmm",
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
