@@ -1,24 +1,24 @@
 {
     "urls": [
         {
-            "url": "http://xn--4bra.live/%E7%8C%AB",
-            "name": "😀4K"
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚猫源"
         },
         {
-            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-            "name": "😍星辰"
+            "url": "http://api.xiaoz.fit/1.json",
+            "name": "小宝资源"
         },
         {
             "url": "http://miaotvs.cn/osc",
-            "name": "😎喵TV"
+            "name": "MTV270"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🐭神器每日推送"
+            "name": "每日推送"
         },
         {
-            "url": "http://111.67.196.181/mtv/270.txt",
-            "name": "🐧270"
+            "url": "https://gitcode.net/q284855646/TVBox/-/raw/main/tv.json",
+            "name": "始终有你"
         }
     ],
     "vip": [
@@ -31,7 +31,7 @@
             "name": "🐉18+"
         },
         {
-            "url": "http://mtw.so/5PGEEm",
+            "url": "http://api.xiaoz.fit/18.json",
             "name": "🐘18+"
         },
         {
