@@ -9,6 +9,8 @@
 {"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
 
+//http://52.78.50.140:50217/vod?rule=360影视
+
 //{"key":"dr_兔小贝","name":"影视┃兔小贝源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
 
