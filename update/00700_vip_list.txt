@@ -1,14 +1,6 @@
 {
     "urls": [
         {
-            "url": "https://gitcode.net/q284855646/TVBox/-/raw/main/tv.json",
-            "name": "始终有你"
-        },
-        {
-            "url": "http://api.xiaoz.fit/1.json",
-            "name": "小宝资源"
-        },
-        {
             "url": "http://miaotvs.cn/osc",
             "name": "MTV270"
         },
@@ -17,8 +9,16 @@
             "name": "每日推送"
         },
         {
+            "url": "http://api.xiaoz.fit/1.json",
+            "name": "小宝资源"
+        },
+        {
             "url": "http://刚刚.live/猫",
             "name": "刚刚猫源"
+        },
+        {
+            "url": "https://gitcode.net/q284855646/TVBox/-/raw/main/tv.json",
+            "name": "始终有你"
         }
     ],
     "vip": [
