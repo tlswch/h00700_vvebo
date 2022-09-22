@@ -290,6 +290,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/7186e4e47b4743debef7e69b901686c5
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,rtmp://pull-f5-spe.ixigua.com/live/rtmvqpiovjxzoifjegojszxcvlgifvhngliggobiggsvhgchtvbs
+TVBS-HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS-HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS-HD,https://git.io/JgYl2
 TVBS-HD,http://www.295ys.gq/sb.php?id=37
@@ -441,10 +442,12 @@ JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 郭德纲于谦,http://wabc.ml/huya.php?id=20985765
 郭德纲于谦,https://live.52sf.ga/huya/10132155
 郭德纲于谦,https://live.52sf.ga/huya/22809600
+东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 梨园戏曲,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
 梨园戏曲,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 梨园戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 岭南戏曲,http://113.116.56.252:8181/tsfile/live/1104_1.m3u8
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 春晚小品,http://wabc.ml/huya.php?id=11352875
