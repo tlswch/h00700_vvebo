@@ -77,7 +77,9 @@
 
 
 
-//"key": "csp_xBPQ_磁搜","name": "磁搜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/xBPQ.jar;md5;FC05EA9C2A8EFCF4C18C6AFCE51AC406"},
+//{"key": "csp_xBPQ_磁搜","name": "磁搜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/xBPQ.jar;md5;FC05EA9C2A8EFCF4C18C6AFCE51AC406"},
+
+//{"key": "csp_xBPQ_在线之家","name": "️在线之家","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\": \"class=\\\"stui-vodlist__head&&</div>\",\"线路标题\": \"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"分类\":\"电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6\",\"分类url\":\"https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html\",\"筛选\":\"1\"}","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/xBPQ.jar;md5;FC05EA9C2A8EFCF4C18C6AFCE51AC406"},
 
 
 
