@@ -9,3 +9,6 @@ https://epg.sec.st/epg.php
 
 http://epg.51zmt.top:8000/api/diyp
 
+http://124.223.212.38:83/
+
+http://epg.51zmp.top:8000/
