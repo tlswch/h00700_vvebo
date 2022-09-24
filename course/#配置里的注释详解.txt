@@ -9,13 +9,27 @@
 {"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
 
+
+
+
 //http://52.78.50.140:50217/vod?rule=360影视
+
+
+
 
 //{"key":"dr_兔小贝","name":"影视┃兔小贝源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
 
+
+
+
+
 {"key":"dr_兔小贝","name":"影视┃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"影视┃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
+
+
+
+
 
 //{"key":"csp_360","name":"聚合┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bttoo","name":"影视┃宝塔影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
@@ -24,6 +38,10 @@
 //{"key":"mjxq_spider","name":"影视┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_剧荒","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 
+
+
+
+
 //{"key":"csp_Jianying","name":"影视┃简影影视","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzk2MSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNVQwOTo1NjozOC41MzErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE1VDA5OjU2OjM4LjUzMSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijg2NzMzNzkzNUBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI2NWFlZDQ0My02ZmFhLTQyMTYtYTU2Mi04Y2YyZjlmZjk1ZGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzgxMTgwNCwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.t0xl2Grj9CzjcbzL7538Q0Kb7rDTvB90qz7A0I24KLs"},
 //{"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -31,13 +49,21 @@
 //{"key":"Smdyy_spider","name":"影视┃神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"追剧喵","name":"影视┃追剧喵喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 
+
+
+
 //{"key":"csp_XYQHiker_氢视频","name":"影视┃氢影视源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQPlugin/%e6%b0%a2%e8%a7%86%e9%a2%91.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQPlugin.jar"},
+
+
+
 
 //{"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nbys","name":"影视┃泥巴(需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"if101资源","name":"影视┃if101(需翻墙)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 //{"key":"csp_Kunyu77","name":"影视┃新酷云七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/77new.jar;md5;2F19C527B9A335FB1415C5F9686515C8"},
+
+
 
 //{"key":"csp_低端影视","name":"影视┃低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"spider_IKan","name":"影视┃爱看影视","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
@@ -47,6 +73,15 @@
 //{"key":"csp_IQIYI","name":"官方┃爱奇艺源","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_QQ","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_MGTV","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
+
+//"key": "csp_xBPQ_磁搜","name": "磁搜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/xBPQ.jar;md5;FC05EA9C2A8EFCF4C18C6AFCE51AC406"},
+
+
+
+
 
 
 //"drives":[{"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
@@ -89,6 +124,11 @@
 //token=058fc4f934db45e18ae0f55235da2f24
 //token=81461f2e9d0b4ffb86612db403824b8a
 
+
+
+
+
+
 //T4网络接口,后面可以接
 555影视,cokemv,LIBVIO,vip影院,万能影视,养端,剧白白,喵喵,在线之家,夜空,干饭影视,影视工厂,玩偶姐姐,瓜皮TV,看视界,莫扎兔,蓝光影院,蓝莓影视,鸭奈飞
 //http://cms.nokia.press/vod?rule=555影视
@@ -109,6 +149,9 @@
 //{"key":"csp_Alist","name":"云存┃Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/vvebo/vvebo/raw/branch/main/Alist.json"},
 //{"key":"csp_bendi","name":"本地┃本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quckSearch":0,"filterable":0,"type_flag":1},
 //{"key":"push_agent","name":"手机┃推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
+
+
+
 
 
 
