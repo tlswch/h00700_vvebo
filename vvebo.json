@@ -18,11 +18,11 @@
 
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"3EDY","name":"影视┃飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"555电影","name":"影视┃三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"555电影","name":"影视┃三五电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"影视┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"影视┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
