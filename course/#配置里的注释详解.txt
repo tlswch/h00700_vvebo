@@ -108,6 +108,9 @@
 //{"name":"晴園","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}],
 
 {"key":"t4public","name":"聚合┃T4公共源","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4a","name":"聚合┃T4聚合源","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=dcbc975ad0684eb5a498ecd1836272e6&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+
+
 
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
 {"key":"csp_易搜资源","name":"阿里┃易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
