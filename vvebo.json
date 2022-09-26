@@ -32,7 +32,7 @@
 {"key":"csp_xpath_zxzj","name":"影视┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/zxzjp.json"},
 
 {"key":"多多","name":"影视┃多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
-{"key":"csp_小纸条源","name":"聚合┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421"}],
+{"key":"csp_小纸条源","name":"聚合┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd"}],
 
 "hotSearch":[{"name":"mobilesearch","request":{"method":"GET","header":[{"key":"Referer","value":"https://www.douban.com/"}],"url":{"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response":{"result":"$.data","data":[{"key":"keyword","value":"title"}]}}],
 
