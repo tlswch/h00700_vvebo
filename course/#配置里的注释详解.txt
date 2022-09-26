@@ -149,6 +149,11 @@
 
 //{"key": "T4","name": "豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+//带阿里KEN+豆瓣KEN
+//{"key":"我的豆瓣","name":"导航┃豆瓣推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=dcbc975ad0684eb5a498ecd1836272e6&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
+
+
+
 //{"key":"T4","name":"聚合┃T4爬虫源","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://cn-cd-dx-2.natfrp.cloud:44327/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"t4test","name":"T4测试(搜索)","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
