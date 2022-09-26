@@ -35,6 +35,7 @@
 
 "parses":[
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"M0","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v="},
 {"name":"M1","type":0,"url":"https://svip.oh5.cc/?url="},
 {"name":"M2","type":0,"url":"https://okjx.cc/?url="},
 {"name":"M3","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
