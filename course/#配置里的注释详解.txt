@@ -191,6 +191,8 @@
 
 ////{name:"酷云",url:"http://api.kunyu77.com/api.php/provide/parserUrl?url=",jxb:"原",js:"1",json:"1",ua:"Dalvik/2.1.0",zd:"1",qp:"1"},
 
+//"type":1,http://168.qxzm.cc/user/owe.php?app=10000&account=hjdhnx&password=hjdhnx&url=
+
 //{"name": "Fosi嗅探","url": "https://play.fositv.com/?url=","type": 0,"ext": {"flag": ["qiyi","imgo", "爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩", "哔哩","mgtv","芒果","sohu","xigua","fun","风行" ],"header": { "User-Agent": "Mozilla/5.0"}}},
 
         {
