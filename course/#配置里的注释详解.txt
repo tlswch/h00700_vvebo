@@ -21,6 +21,8 @@
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
 
 
+//{"key":"dr_菜狗","name":"菜狗(道长)","type":1,"api":"https://ww.ww999.repl.co/vod?rule=菜狗","searchable":2,"quickSearch":0,"filterable":1},
+
 
 
 
