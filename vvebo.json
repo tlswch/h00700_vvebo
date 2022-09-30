@@ -39,7 +39,7 @@
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jiexi.555jiexi.net:555/player/analysis.php?v="},
 {"name":"M01","type":0,"url":"https://okjx.cc/?url=","mobile":1},
 {"name":"M02","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"M03","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"M03","type":0,"url":"http://jx.bozrc.com:4433/player/?url="},
 {"name":"M04","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
 {"name":"M05","type":0,"url":"https://play.fositv.com/?url="}],
 
