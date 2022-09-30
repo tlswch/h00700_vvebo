@@ -37,15 +37,11 @@
 
 "parses":[
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jiexi.555jiexi.net:555/player/analysis.php?v="},
-{"name":"M00","type":0,"url":"https://okjx.cc/?url=","mobile":1},
-{"name":"M01","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"M01","type":0,"url":"https://okjx.cc/?url=","mobile":1},
 {"name":"M02","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"M03","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"M04","type":0,"url":"https://okjx.cc/?url="},
-{"name":"M05","type":0,"url":"https://svip.oh5.cc/?url="},
-{"name":"M06","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"M07","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
-{"name":"M08","type":0,"url":"https://play.fositv.com/?url="}],
+{"name":"M03","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"M04","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
+{"name":"M05","type":0,"url":"https://play.fositv.com/?url="}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
