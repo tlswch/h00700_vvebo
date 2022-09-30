@@ -25,9 +25,7 @@
 {"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"影视┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP293","name":"影视┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e5%9b%be%e5%9b%be.jar;md5;0E705BB970B09245B190D01F3A5EE792"},
-
 {"key":"csp_DiDuan","name":"影视┃低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_zxzj","name":"影视┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/zxzjp.json"},
 
@@ -38,8 +36,7 @@
 "hotSearch":[{"name":"mobilesearch","request":{"method":"GET","header":[{"key":"Referer","value":"https://www.douban.com/"}],"url":{"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response":{"result":"$.data","data":[{"key":"keyword","value":"title"}]}}],
 
 "parses":[
-{"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":1,"url":"http://168.qxzm.cc/user/owe.php?app=10000&account=hjdhnx&password=hjdhnx&url="},
-{"name":"M-","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v="},
+{"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://h5.freejson.xyz/player/analysis.php?v="},
 {"name":"M0","type":0,"url":"https://svip.oh5.cc/?url="},
 {"name":"M1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"M2","type":0,"url":"https://okjx.cc/?url="},
