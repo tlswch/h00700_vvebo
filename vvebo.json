@@ -38,12 +38,14 @@
 "hotSearch":[{"name":"mobilesearch","request":{"method":"GET","header":[{"key":"Referer","value":"https://www.douban.com/"}],"url":{"raw":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},"response":{"result":"$.data","data":[{"key":"keyword","value":"title"}]}}],
 
 "parses":[
-{"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jiexi.555jiexi.net:555/player/analysis.php?v="},
-{"name":"M01","type":0,"url":"https://okjx.cc/?url=","mobile":1},
+{"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://okjx.cc/?url=","mobile":1},
+{"name":"M01","type":0,"url":"https://cv.htoo.vip/?url="},
 {"name":"M02","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"M03","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"M04","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
-{"name":"M05","type":0,"url":"https://play.fositv.com/?url="}],
+{"name":"M03","type":0,"url":"https://jx.xmflv.com/?url="},
+{"name":"M04","type":0,"url":"https://lecurl.cn/?url="},
+{"name":"M05","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"M06","type":0,"url":"https://www.gai4.com/?url="},
+{"name":"M07","type":0,"url":"http://jx.13tv.top/?url="}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
