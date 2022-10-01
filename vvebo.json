@@ -41,10 +41,11 @@
 "parses":[
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://okjx.cc/?url=","mobile":1},
 {"name":"M01","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"M02","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
-{"name":"M03","type":0,"url":"https://www.ckmov.vip/api.php?url="},
-{"name":"M04","type":0,"url":"https://jx.playerjy.com/?url="},
-{"name":"M05","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"M00","type":0,"url":"https://jx.000180.top/jx/?url="},
+{"name":"M02","type":0,"url":"https://www.mtosz.com/m3u8.php?url="},
+{"name":"M03","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
+{"name":"M04","type":0,"url":"https://jx.4kdv.com/?url="},
+{"name":"M05","type":0,"url":"https://api.jiexi.la/?url="},
 {"name":"M06","type":0,"url":"https://www.gai4.com/?url="},
 {"name":"M07","type":0,"url":"http://s.lingutv.cn/?url="}],
 
