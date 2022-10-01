@@ -17,22 +17,16 @@
 //{"key":"80S电影","name":"磁力┃80S电影","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/80S.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e6%94%af%e6%8c%81%e7%a3%81%e5%8a%9b.jar;md5;02C55D39676581762880E41845470E48"},
 
 
-{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
+{"key":"csp_biubiu_饭团","name":"影视┃饭团影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/%e9%a5%ad%e5%9b%a2.json"},
 
+{"key":"csp_XYQBiu_万能影院","name":"影视┃万能影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar;md5;B5CB416B74DFAD8048304186375F0320"},
 
-{"key":"csp_biubiu_饭团","name":"🍚饭团(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/%e9%a5%ad%e5%9b%a2.json"},
+{"key":"csp_XYQBiu_凌云韩国","name":"影视┃凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%87%8c%e4%ba%91%e8%a7%86%e9%a2%91%e9%9f%a9%e5%9b%bd.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar;md5;B5CB416B74DFAD8048304186375F0320"},
 
+{"key":"csp_XYQBiu_虎牙直播","name":"直播┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e8%99%8e%e7%89%99%e8%a7%a3%e6%9e%90.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu_huya.jar;md5;12D2DF395A9BDAE64A9982A88F23D9E3"},
 
-{"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar"},
+{"key":"csp_XYQBiu_短视频","name":"视频┃抖音快手","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%88%86%e4%ba%ab%e7%9f%ad%e8%a7%86%e9%a2%91.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar;md5;B5CB416B74DFAD8048304186375F0320"},
 
-
-{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e8%99%8e%e7%89%99%e8%a7%a3%e6%9e%90.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu_huya.jar"},
-
-
-{"key":"csp_XYQBiu_短视频","name":"分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%88%86%e4%ba%ab%e7%9f%ad%e8%a7%86%e9%a2%91.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar"},
-
-
-{"key":"csp_XYQBiu_凌云韩国","name":"🐻凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%87%8c%e4%ba%91%e8%a7%86%e9%a2%91%e9%9f%a9%e5%9b%bd.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar"},
 
 
 {"key":"我的豆瓣","name":"导航┃豆瓣评分","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
