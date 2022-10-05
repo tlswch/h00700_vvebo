@@ -5,6 +5,9 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 
+//{"key":"key_〔资源名称〕","name":"『资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义官源资源列表〕","〔自定义官源资源列表〕"] },
+
+
 {"key":"qq","name":"T4-腾讯","type":4,"api":"http://home.jundie.top:666/psp/qq.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
