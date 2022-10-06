@@ -1,0 +1,21 @@
+http=h961359.strongpipe.live:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=h961359.strongpipe.live:11545
+
+http=h961359.strongpipe.live:11445, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=h961359.strongpipe.live:11445
+
+http=h745768.waihuizhibiaowang.com:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IEPL-AP-JP-1[ran-out]
+
+http=h745768.waihuizhibiaowang.com:11343, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IEPL-AP-TW-1[ran-out]
+
+http=h649960.waihuizhibiaowang.com:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLC-AP-HK-1[ran-out]
+
+http=h961359.waihuizhibiaowang.com:11543, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=CTVIP-HK-3[ran-out]
+
+http=h649960.waihuizhibiaowang.com:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLC-AP-JP-1[ran-out]
+
+http=h961359.waihuizhibiaowang.com:11443, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=CTVIP-JP-3[ran-out]
+
+http=h650196.waihuizhibiaowang.com:11743, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLC-EU-DE-3[ran-out]
+
+http=h650196.waihuizhibiaowang.com:11243, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLC-US-US-3[ran-out]
+
+http=h650196.waihuizhibiaowang.com:11143, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=IPLC-EU-UK-3[ran-out]
