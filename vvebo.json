@@ -5,15 +5,15 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"我的豆瓣","name":"导航┃豆瓣推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e9%85%b7%e4%ba%91%e4%b8%83%e4%b8%83%e4%bf%ae%e5%a4%8d%e6%90%9c%e7%b4%a2.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan.json"},
 {"key":"csp_直播合集","name":"直播┃四站合一","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key":"DJ-XB-听书网","name":"听书┃只闻其声","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tingbook.json"},
 
-{"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 
