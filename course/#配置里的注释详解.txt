@@ -34,7 +34,7 @@
 //http://52.78.50.140:50217/vod?rule=360影视
 
 
-
+{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"dr_兔小贝","name":"影视┃兔小贝源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_小猫咪","name":"影视┃小猫咪源","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
