@@ -407,17 +407,35 @@ JJ斗地主,http://epg.112114.xyz/huya/14079954
 JJ斗地主,https://api.qianqi.net/tv/huya/?id=14079954
 JJ斗地主,https://bd.jx.cn/?url=huya.com/14079954
 JJ斗地主,http://qytv.win86.top/tv/huya.php?id=14079954
+JJ斗地主,http://wabc.ml/huya.php?id=14079954
 JJ斗地主,http://ws.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.m3u8
+JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 JJ斗地主,http://aldirect.flv.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.flv
 JJ斗地主,http://al.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 JJ斗地主,http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 JJ斗地主,http://txtest-xp2p.p2p.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.xs
+JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+JJ斗地主,http://124.223.212.38:83/douyu/488743
+JJ斗地主,http://mmitv.top/test/douyu.php?id=488743
+JJ斗地主,http://qytv.win86.top/tv/dytv.php?id=488743
+JJ斗地主,http://diyp.112114.xyz/douyu/488743
+JJ斗地主,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=488743
+JJ斗地主,http://epg.112114.xyz/douyu/488743
+JJ斗地主,https://live.52sf.ga/douyu/488743
+JJ斗地主,https://liveb.52sf.ga/douyu/488743
+JJ斗地主,http://maomao.kandiantv.cn/douyu1.php?id=488743
+JJ斗地主,http://fangsong.live/hls/douyu.php?id=488743
+JJ斗地主,http://124.223.212.38:83/douyu/488743
+JJ斗地主,http://hdltctwk.douyucdn2.cn/live/488743rAHScWyyII.xs
+JJ斗地主,http://ws-tct.douyucdn.cn/live/488743rAHScWyyII.xs
+JJ斗地主,http://183.204.192.119/ws-tct.douyucdn.cn/live/488743rAHScWyyII.xs
+JJ斗地主,http://hlsa-akm.douyucdn.cn/live/488743rAHScWyyII.flv?uuid=
+JJ斗地主,https://0569839b6a405e409510fe01b6c23940.v.smtcdns.net/akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
 JJ斗地主,http://diyp.112114.xyz/douyu/488743
 JJ斗地主,https://live.52sf.ga/douyu/488743
-JJ斗地主,http://wabc.ml/huya.php?id=14079954
 JJ斗地主,http://maomao.kandiantv.cn/douyu1.php?id=488743
 JJ斗地主,http://315600.xyz/jk/dl/douyu.php?id=488743
-JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 
 
 影视频道,#genre#
