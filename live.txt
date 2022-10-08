@@ -375,8 +375,8 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 
 
 地方频道,#genre#
-辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
+辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
 辽宁都市,rtsp://60.22.151.41/PLTV/88888888/224/0/3221226079/000000000cax.smil
 辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
@@ -400,6 +400,17 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 纬来体育,rtmp://pull-f5-spe.ixigua.com/live/rtmvefzkxchghgpfgxcvjwpejypwepjrxfcvnxvsgklghsgfhwlty
 纬来体育,http://218.32.47.179:18563/.m3u8
 纬来体育,http://60.251.39.247:8503/.m3u8
+JJ斗地主,http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=14079954
+JJ斗地主,http://mmitv.top/pltv/huya.php?id=14079954
+JJ斗地主,https://live.52sf.ga/huya/14079954
+JJ斗地主,http://epg.112114.xyz/huya/14079954
+JJ斗地主,https://api.qianqi.net/tv/huya/?id=14079954
+JJ斗地主,https://bd.jx.cn/?url=huya.com/14079954
+JJ斗地主,http://qytv.win86.top/tv/huya.php?id=14079954
+JJ斗地主,http://ws.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.m3u8
+JJ斗地主,http://aldirect.flv.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.flv
+JJ斗地主,http://al.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
+JJ斗地主,http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 JJ斗地主,http://txtest-xp2p.p2p.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.xs
 JJ斗地主,http://diyp.112114.xyz/douyu/488743
 JJ斗地主,https://live.52sf.ga/douyu/488743
@@ -421,9 +432,9 @@ JJ斗地主,https://hw.flv.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 铁齿铜牙纪晓岚,http://txtest-xp2p.p2p.huya.com/huyalive/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.xs
 铁齿铜牙纪晓岚,http://wabc.ml/huya.php?id=11342396
 铁齿铜牙纪晓岚,https://tx.flv.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.flv
+铁齿铜牙纪晓岚,https://live.52sf.ga/huya/11342396
 铁齿铜牙纪晓岚,https://live.52sf.ga/bilibili/23989703
 铁齿铜牙纪晓岚,https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/569616/live_20200345_78309519_1500.m3u8
-铁齿铜牙纪晓岚,https://live.52sf.ga/huya/11342396
 铁齿铜牙纪晓岚,https://cn-sdjn-cu-live-01.bilivideo.com/live-bvc/569616/live_20200345_78309519_1500.m3u8
 周星驰电影,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 周星驰电影,http://wabc.ml/huya.php?id=11342412
