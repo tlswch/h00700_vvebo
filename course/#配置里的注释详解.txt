@@ -51,7 +51,7 @@
 
 
 
-
+{"key":"csp_直播合集","name":"直播┃四站合一","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_360","name":"聚合┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Bttoo","name":"影视┃宝塔影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Lib","name":"影视┃利维影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
