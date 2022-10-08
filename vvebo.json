@@ -16,30 +16,6 @@
 
 {"key":"csp_DiDuan","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 
-
-{
-"key":"py_freezb",
-"name":"免费直播_Py",
-"type":3,
-"api":"py_freezb",
-"searchable":0,
-"quickSearch":0,
-"filterable":1,
-"ext":"https://agit.ai/00700/vvebo/raw/branch/main/python/py_freezb.py"
-},
-
-{
-"key":"py_yytv",
-"name":"YY体育_Py",
-"type":3,
-"api":"py_yytv",
-"searchable":0,
-"quickSearch":0,
-"filterable":1,
-"ext":"https://agit.ai/00700/vvebo/raw/branch/main/python/py_yytv.py"
-},
-
-
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
