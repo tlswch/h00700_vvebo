@@ -21,6 +21,8 @@
 {"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
 
 
+{"key":"csp_xBPQ_zf","name": "体育┃抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/xBPQ/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.json"},
+
 {"key":"csp_XYQBiu_17kan","name":"体育┃一起看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/17kan_2.json"},
 
 {"key":"csp_XYQBiu_310直播","name":"体育┃310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/310tv.json"},
