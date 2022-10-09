@@ -2,7 +2,7 @@
 "url": "http://www.88kanqiu.com",
 "User": "空",
 "是否记录历史": "1",
-"列表显示": "1",
+"列表显示": "0",
 "fenlei": "88看球$空",
 "houzhui": "",
 "shifouercijiequ": "0",
