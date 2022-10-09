@@ -18,8 +18,7 @@
 
 
 
-{"key":"csp_Biubiu_FM电台","name":"XBiubiu┃FM电台","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/test/FM%e7%94%b5%e5%8f%b0.txt"},
-
+{"key":"csp_XBiubiu_88","name":"XYQBiu┃88","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/test/88.txt","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XBiubiu.jar"},
 
 
 {"key":"我的豆瓣","name":"导航┃豆瓣评分","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
