@@ -3,7 +3,7 @@
 "User": "空",
 "是否记录历史": "1",
 "列表显示": "1",
-"fenlei": "体育$空",
+"fenlei": "空",
 "houzhui": "",
 "shifouercijiequ": "0",
 "jiequqian": "空",
