@@ -19,5 +19,5 @@
 "biaotihou": "\"",
 "lianjieqian": "/radios/",
 "lianjiehou": "\"",
-"ljqianzhui": "https://lhttp.qingting.fm/live/",
+"ljqianzhui": "https://lhttp.qtfm.cn/live/",
 "ljhouzhui": "/64k.mp3"}
