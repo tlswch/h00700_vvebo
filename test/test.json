@@ -18,8 +18,7 @@
 
 
 
-{"key":"csp_XYQBiu_FM电台","name":"XYQBiu┃FM电台","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/test/FM%e7%94%b5%e5%8f%b0.txt","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQBiu.jar"},
-
+{"key":"csp_Biu_FM电台","name":"XBiu┃FM电台","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/test/FM%e7%94%b5%e5%8f%b0.txt"},
 
 
 
