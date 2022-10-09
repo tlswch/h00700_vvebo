@@ -18,6 +18,6 @@
 "biaotiqian": "alt=\"",
 "biaotihou": "\"",
 "lianjieqian": "/radios/",
-"lianjiehou": "",
+"lianjiehou": "\"",
 "ljqianzhui": "https://lhttp.qtfm.cn/live/",
 "ljhouzhui": "/64k.mp3"}
