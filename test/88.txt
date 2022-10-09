@@ -5,7 +5,7 @@
 "列表显示": "1",
 "fenlei": "88看球$空",
 "houzhui": "",
-"shifouercijiequ": "1",
+"shifouercijiequ": "0",
 "jiequqian": "category-nav-header",
 "jiequhou": "</li>",
 "jiequshuzuqian": "group-game-item",
