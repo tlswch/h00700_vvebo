@@ -218,7 +218,7 @@
 
 {"key":"dr_兔小贝","name":"影视┃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"影视┃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
-
+{"key":"csp_Nbys","name":"翻墙┃泥巴影视","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1}
 {"key":"csp_apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_乐猪影视","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_视界影视","name":"影视┃视界影视","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
