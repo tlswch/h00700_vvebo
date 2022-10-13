@@ -249,6 +249,9 @@ json;pk;123456
 
 //{"key": "csp_xf_heihei","name": "️嘿嘿影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XYQPlugin/heihei.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/XYQPlugin.jar;md5;E20EF64626337DDBB65E47273C3BE588"},
 
+//一个不带筛选的分类url
+{"key":"TVB云播","name":"影视┃TVB云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyb03.com/vod/type/id/{cateId}/page/{catePg}.html"},
+
 
 {"key":"csp_xBPQ_黑洞","name":"黑洞网 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"hl-list-wrap&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
 
