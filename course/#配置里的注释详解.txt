@@ -1,3 +1,5 @@
+json;pk;123456
+
 //"wallpaper":"https://jnlzy.tk/",
 //"wallpaper":"https://tool.weetai.cn/api",
 //"wallpaper":"https://api.lr-jia.cn/api/dnmm",
