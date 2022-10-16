@@ -11,8 +11,8 @@
 	"zbjx":"http://123.56.222.84:2025/iphonex/huya.php?id=",
 	"gqjx":"http://123.56.222.84:2025/iphonex/100.php?url=",
 	"mainurl":"https://alogin.oss-cn-beijing.aliyuncs.com/iphonex.json",
-	"appid":"10001",
-	"version":"2.3.0",
+	"appid":"10000",
+	"version":"2.3.1",
 	"headers":{
 		"host":"123.56.222.84:2025",
 		"User-Agent":"hahahha"	
