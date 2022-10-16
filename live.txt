@@ -390,6 +390,8 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/2300000/mnf.m3u8
 五星体育,mitv://ns2.hellotvvod.com:9906/ae2f458729f04d45ae0491801d168cbd
+咪咕体育,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+咪咕体育,http://111.13.42.238/PLTV/88888888/224/3221226375/1.m3u8
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
