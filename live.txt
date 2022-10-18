@@ -141,6 +141,8 @@ CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13,http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
 CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
+CCTV-4K,https://v.bjiptv.eu.org/4.php
+
 
 卫视频道,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
