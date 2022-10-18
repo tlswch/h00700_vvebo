@@ -247,6 +247,13 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 
 
+地方频道,#genre#
+辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
+辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
+辽宁都市,rtsp://60.22.151.41/PLTV/88888888/224/0/3221226079/000000000cax.smil
+辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
+
+
 港台频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -374,11 +381,7 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,mitv://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
 
 
-地方频道,#genre#
-辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
-辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
-辽宁都市,rtsp://60.22.151.41/PLTV/88888888/224/0/3221226079/000000000cax.smil
-辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
+体育频道,#genre#
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
