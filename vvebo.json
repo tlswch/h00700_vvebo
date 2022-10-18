@@ -26,6 +26,19 @@
 {"key":"csp_XYQBiu_万能影院","name":"影视┃万能影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_XYQBiu_凌云韩国","name":"影视┃凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%87%8c%e4%ba%91%e8%a7%86%e9%a2%91%e9%9f%a9%e5%9b%bd.json"},
 
+
+{
+"key":"csp_xb_zbk",
+"name":"真不卡(R)",
+"type":3,
+"api":"csp_XBiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
+},
+
+
 {"key":"csp_Ysgc","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.jar;md5;BF399B7093D34261F759BE43E04232ED"},
 {"key":"csp_xpath_007","name":"影视┃007影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/007.json"},
 {"key":"csp_xpath_zxzj","name":"影视┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/zxzjp.json"},
@@ -48,7 +61,8 @@
 {"name":"M10","type":0,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"M11","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"M12","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
-{"name":"M13","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"flag":["qq","腾讯","imgo","mgtv","芒果"]}}],
+{"name":"M13","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"M14","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"flag":["qq","腾讯","imgo","mgtv","芒果"]}}],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
