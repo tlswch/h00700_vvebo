@@ -35,7 +35,6 @@
 {"key":"csp_小纸条源","name":"聚合┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/AliKey"}],
 
 "parses":[
-{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"M01","type":0,"url":"https://json.legendwhb.cn/llq/?url="},
 {"name":"M02","type":0,"url":"https://www.gai4.com/?url="},
