@@ -1,6 +1,6 @@
 {
 
-"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/%e5%8a%a8%e6%bc%ab.jar;md5;A6EC1A6D2CBA2A6E88ECAF8D935F8C6C",
+"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/vvebo1.jar;md5;B326B478CB14F2769F111340FBE08EB5",
 
 "sites":[
 
@@ -16,14 +16,7 @@
 
 //{"key":"80S电影","name":"磁力┃80S电影","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/80S.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e6%94%af%e6%8c%81%e7%a3%81%e5%8a%9b.jar;md5;02C55D39676581762880E41845470E48"},
 
-{"key":"csp_Dm84","name":"Dm84","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Pig","name":"Pig","type":3,"api":"csp_Pig","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ying","name":"Ying","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"Ysj","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime","name":"Anime","type":3,"api":"csp_Anime","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"我的豆瓣","name":"导航┃豆瓣评分","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"t4public","name":"聚合┃T4公共源","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":1}],
