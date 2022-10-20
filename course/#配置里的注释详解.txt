@@ -196,6 +196,22 @@ json;pk;123456
 
 //http://52.78.50.140:50217/vod?rule=360影视
 
+{"key":"csp_xBPQ_电视直播",
+"name":"电视直播",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"{
+\"分类\":\"电视直播$ys.html#\",
+\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",
+\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",
+\"图片\":\"http://\",
+\"播放图片\":\"http://\",
+\"线路合并\":\"1\"
+}"},
+
 {"key":"我的豆瓣","name":"导航┃豆瓣评分","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"douban","name":"豆瓣荐片┃神器妹推介首页","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
