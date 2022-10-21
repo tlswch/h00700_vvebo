@@ -1,3 +1,6 @@
+解码:http://cron.qiqiv.cn/cron/abc/123/
+解密:http://jm.pooo.eu.org/
+
 json;pk;123456
 菜妮丝https://cainisi.cf
 
