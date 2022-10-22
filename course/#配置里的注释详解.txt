@@ -273,7 +273,7 @@ json;pk;123456
 //{"key":"mjxq_spider","name":"影视┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_剧荒","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP293","name":"影视┃293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/293.txt"},
-
+{"key":"csp_DiDuan" ,"name":"影视┃欧美日韩","type":3,"api":"csp_xBPQ","click": "ddys.tv;.vjs-big-play-button","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"影视┃飘花影视","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"影视┃哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"影视┃完美影视","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
