@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/sq.jar;md5;A10D9F38C579E60A598B43356A936857",
+"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/vvebo2.jar;md5;0DE800421C4AE17DB9760784B1B566A9",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
 "rules":[{"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},{"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},{"host":"*","rule":["/m3u8.php","path="]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
@@ -9,12 +9,12 @@
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan.json"},
-{"key":"csp_XYQBiu_虎牙","name":"直播┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/hy.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/tk.jar"},
-{"key":"csp_XYQBiu_斗鱼","name":"直播┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/dy.json","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/tk.jar"},
+{"key":"csp_XYQBiu_虎牙","name":"直播┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/hy.json"},
+{"key":"csp_XYQBiu_斗鱼","name":"直播┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/dy.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
 {"key":"DJ-XB-听书网","name":"听书┃只闻其声","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tingbook.json"},
 
-{"key":"csp_DiDuan" ,"name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan" ,"name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -30,12 +30,11 @@
 {"key":"csp_XYQBiu_万能影院","name":"影视┃万能影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_XYQBiu_凌云韩国","name":"影视┃凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%87%8c%e4%ba%91%e8%a7%86%e9%a2%91%e9%9f%a9%e5%9b%bd.json"},
 
-{"key":"csp_Ysgc","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.jar;md5;BF399B7093D34261F759BE43E04232ED"},
+{"key":"csp_Ysgc","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_007","name":"影视┃007影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/007.json"},
-{"key":"csp_xb_zbk","name":"影视┃不卡影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_zbk","name":"影视┃不卡影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 
 {"key":"多多","name":"影视┃多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
-{"key":"小猫咪源","name":"影视┃小猫咪源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/xBPQ/xb_%e5%b0%8f%e7%8c%ab%e5%92%aa.json"},
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/AliKey"}],
 
 "parses":[
