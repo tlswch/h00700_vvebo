@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/00700/vvebo/raw/branch/main/spider/vvebo1.jar;md5;23C09D7B7AF37BC8D1D2AC75289FE9A3",
+"spider":"https://agit.ai/00700/vvebo/raw/branch/main/spider/Yoursmile.jar;md5;C7A49391E2F4E60B7F2E26C238189225",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
 //"rules":[{"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},{"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},{"host":"*","rule":["/m3u8.php","path="]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
