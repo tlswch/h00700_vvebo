@@ -32,7 +32,6 @@
 
 {"key":"csp_Ysgc","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.jar;md5;BF399B7093D34261F759BE43E04232ED"},
 {"key":"csp_xpath_007","name":"影视┃007影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/007.json"},
-{"key":"csp_xpath_zxzj","name":"影视┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/zxzjp.json"},
 
 {"key":"多多","name":"影视┃多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/xBPQ/%e8%93%9d%e5%85%89.json"},
