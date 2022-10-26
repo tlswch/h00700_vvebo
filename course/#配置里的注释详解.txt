@@ -260,7 +260,7 @@ json;pk;123456
 "ext":"https://agit.ai/00700/vvebo/raw/branch/main/python/py_yytv.py"
 },
 
-{"key":"csp_xpath_独播库","name":"影视┃独播影视","type":3,"api":"csp_XPathMacFilter","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/duboku.json"},
+{"key":"csp_xpath_独播库","name":"影视┃独播影视","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/duboku.json"},
 {"key":"dr_兔小贝","name":"影视┃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"影视┃喵喵","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nbys","name":"翻墙┃泥巴影视","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1}
