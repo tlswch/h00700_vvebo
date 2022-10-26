@@ -1,7 +1,8 @@
 {
     "author":"takagen99",
     "ua": "",
-    "homeUrl": "https://www.duboku.tv/",
+    //"homeUrl": "https://www.duboku.tv/",
+    "homeUrl": "https://u.duboku.io/",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
@@ -29,7 +30,7 @@
     "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Summary ================================================      
-    "cateUrl": "https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateUrl": "https://u.duboku.io/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
