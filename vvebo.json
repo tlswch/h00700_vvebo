@@ -5,7 +5,7 @@
 "rules":[{"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},{"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},{"host":"*","rule":["huoshan.com","/item/video/"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".m3u8"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mp4"]},{"host":"*","rule":["aliyundrive.net","response-content-disposition=",".mkv"]},{"host":"*","rule":["/m3u8.php?path=",".m3u8"]},{"host":"*","rule":["/API.php?time=","key=","path=",".m3u8"]},{"host":"*","rule":["oss-cn-m3u8","myqcloud.com.zh188.net","?url=",".m3u8"]},{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
 "sites":[
-{"key":"csp_Nmys","name":"主页┃默认影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
+{"key":"csp_SP360","name":"主页┃爱优腾芒","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_酷云七七","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xpath_qiumi","name":"体育┃球迷在线","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan.json"},
@@ -15,8 +15,8 @@
 {"key":"DJ-XB-听书网","name":"听书┃只闻其声","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tingbook.json"},
 
 {"key":"csp_DiDuan" ,"name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP360","name":"影视┃360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
 
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -34,7 +34,6 @@
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/AliKey"}],
 
 "parses":[
-//{"name":"自动解析","type":3,"url":"Web"},
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"M01","type":0,"url":"https://json.legendwhb.cn/llq/?url="},
 {"name":"M02","type":0,"url":"https://www.gai4.com/?url="},
