@@ -260,6 +260,7 @@ json;pk;123456
 "ext":"https://agit.ai/00700/vvebo/raw/branch/main/python/py_yytv.py"
 },
 
+{"key":"csp_xb_lib","name":"Lib-Vio|XBiu|","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.me/type/{cateId}-{catePg}.html"},
 //{"key":"csp_xpath_独播库","name":"影视┃独播影视","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/duboku.json"},
 //{"key":"csp_XBiu_追剧达人","name":"️影视┃追剧达人","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zjdr.tv/vodshow/id/{cateId}/page/{catePg}.html"},
 //{"key":"csp_xb_zbk","name":"影视┃不卡影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
