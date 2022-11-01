@@ -1,4 +1,9 @@
 {
+//备用配置
+//http://神器每日推送.tk/pz.json
+//
+//https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
 "spider":"https://agit.ai/00700/vvebo/raw/branch/main/spider/vvebo.jar;md5;8EF9F023BB5D0759793F76D59BB9B3A3",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzAwNzAwL3Z2ZWJvL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]}]}],
