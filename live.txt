@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
+CCTV-1,http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_1200.m3u8
 CCTV-1,http://60.10.167.88:808/hls/1/index.m3u8
 CCTV-1,http://119.39.128.12:88/hls/1/index.m3u8
 CCTV-1,http://120.253.104.16:808/hls/1/index.m3u8
@@ -18,7 +18,7 @@ CCTV-1,http://222.175.159.226:808/hls/1/index.m3u8
 CCTV-1,rtsp://221.203.83.35:554/PLTV/88888888/224/0/3221226118/iptv65795.smil
 CCTV-1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 
-CCTV-2,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
+CCTV-2,http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_1200.m3u8
 CCTV-2,http://60.10.167.88:808/hls/2/index.m3u8
 CCTV-2,http://120.253.104.16:808/hls/2/index.m3u8
 CCTV-2,http://222.175.159.226:808/hls/2/index.m3u8
@@ -34,7 +34,7 @@ CCTV-2,http://117.148.129.9/PLTV/88888888/224/3221231678/index.m3u8
 CCTV-2,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 
-CCTV-5,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+CCTV-5,http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_1200.m3u8
 CCTV-5,http://60.10.167.88:808/hls/5/index.m3u8
 CCTV-5,http://171.108.239.13:8181/tsfile/live/1031_1.m3u8
 CCTV-5,http://222.175.159.226:808/hls/5/index.m3u8
@@ -56,7 +56,7 @@ CCTV-5,http://120.253.104.16:808/hls/123/index.m3u8
 CCTV-5,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 
-CCTV-5+,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
+CCTV-5+,http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8
 CCTV-5+,http://60.10.167.88:808/hls/17/index.m3u8
 CCTV-5+,http://171.108.239.13:8181/tsfile/live/1044_1.m3u8
 CCTV-5+,http://222.175.159.226:808/hls/6/index.m3u8
@@ -79,7 +79,7 @@ CCTV-5+,http://120.253.104.16:808/hls/101/index.m3u8
 CCTV-5+,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
 CCTV-5+,http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 
-CCTV-6,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
+CCTV-6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8
 CCTV-6,http://60.10.167.88:808/hls/6/index.m3u8
 CCTV-6,http://222.175.159.226:808/hls/7/index.m3u8
 CCTV-6,http://119.39.128.12:88/hls/7/index.m3u8
@@ -96,7 +96,7 @@ CCTV-6,http://117.148.129.12/PLTV/88888888/224/3221231724/index.m3u8
 CCTV-6,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226728/10000100000000060000000006489754_0.smil
 CCTV-6,http://120.253.104.16:808/hls/125/index.m3u8
 
-CCTV-10,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
+CCTV-10,http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_1200.m3u8
 CCTV-10,http://60.10.167.88:808/hls/10/index.m3u8
 CCTV-10,http://222.175.159.226:808/hls/11/index.m3u8
 CCTV-10,http://183.196.25.171:808/hls/10/index.m3u8
@@ -111,7 +111,7 @@ CCTV-10,http://120.253.104.16:808/hls/134/index.m3u8
 CCTV-10,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226586/10000100000000060000000000499225_0.smil
 CCTV-10,http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
 
-CCTV-12,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
+CCTV-12,http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_1200.m3u8
 CCTV-12,http://60.10.167.88:808/hls/12/index.m3u8
 CCTV-12,http://222.175.159.226:808/hls/13/index.m3u8
 CCTV-12,http://183.196.25.171:808/hls/12/index.m3u8
@@ -125,7 +125,7 @@ CCTV-12,http://120.253.104.16:808/hls/135/index.m3u8
 CCTV-12,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226533/10000100000000060000000000499226_0.smil
 CCTV-12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 
-CCTV-13,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+CCTV-13,http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_1200.m3u8
 CCTV-13,http://60.10.167.88:808/hls/13/index.m3u8
 CCTV-13,http://222.175.159.226:808/hls/14/index.m3u8
 CCTV-13,http://183.196.25.171:808/hls/13/index.m3u8
@@ -142,11 +142,12 @@ CCTV-13,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226691/100001000000000600
 CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 CCTV-4K,https://v.bjiptv.eu.org/4.php
+CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 卫视频道,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1
+浙江卫视,http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_1200.m3u8
 浙江卫视,http://60.10.167.88:808/hls/26/index.m3u8
 浙江卫视,http://120.253.104.16:808/hls/106/index.m3u8
 浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
@@ -161,7 +162,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 浙江卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil
 浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
 
-北京卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
+北京卫视,http://yfsl.vsd.gehua.net.cn/live/BTV1HD_1200.m3u8
 北京卫视,http://120.253.104.16:808/hls/105/index.m3u8
 北京卫视,http://222.175.159.226:808/hls/45/index.m3u8
 北京卫视,http://119.39.128.12:88/hls/43/index.m3u8
@@ -173,7 +174,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 北京卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 
-江苏卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1
+江苏卫视,http://yfsl.vsd.gehua.net.cn/live/JiangSuHD_1200.m3u8
 江苏卫视,http://60.10.167.88:808/hls/20/index.m3u8
 江苏卫视,http://120.253.104.16:808/hls/108/index.m3u8
 江苏卫视,http://222.175.159.226:808/hls/44/index.m3u8
@@ -188,7 +189,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 江苏卫视,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil
 江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 
-东方卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
+东方卫视,http://yfsl.vsd.gehua.net.cn/live/DongFangHD_1200.m3u8
 东方卫视,http://171.108.239.13:8181/tsfile/live/1061_1.m3u8
 东方卫视,http://222.175.159.226:808/hls/43/index.m3u8
 东方卫视,http://183.196.25.171:808/hls/42/index.m3u8
@@ -201,7 +202,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 东方卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 
-湖南卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1
+湖南卫视,http://yfsl.vsd.gehua.net.cn/live/HuNanHD_1200.m3u8
 湖南卫视,http://60.10.167.88:808/hls/19/index.m3u8
 湖南卫视,http://120.253.104.16:808/hls/107/index.m3u8
 湖南卫视,http://117.148.129.11/PLTV/88888888/224/3221231279/index.m3u8
@@ -216,7 +217,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 湖南卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 
-广东卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1
+广东卫视,http://yfsl.vsd.gehua.net.cn/live/GuangDongHD_1200.m3u8
 广东卫视,http://60.10.167.88:808/hls/25/index.m3u8
 广东卫视,http://171.108.239.13:8181/tsfile/live/1059_1.m3u8
 广东卫视,http://120.253.104.16:808/hls/121/index.m3u8
@@ -230,7 +231,7 @@ CCTV-4K,https://v.bjiptv.eu.org/4.php
 广东卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
 广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
 
-辽宁卫视,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1
+辽宁卫视,http://yfsl.vsd.gehua.net.cn/live/LiaoNingHD_1200.m3u8
 辽宁卫视,http://60.10.167.88:808/hls/28/index.m3u8
 辽宁卫视,http://222.175.159.226:808/hls/48/index.m3u8
 辽宁卫视,http://183.196.25.171:808/hls/33/index.m3u8
@@ -379,6 +380,7 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 
 
 体育频道,#genre#
+五星体育,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
 五星体育,http://222.65.19.155:4022/udp/239.45.3.210:5140
@@ -390,6 +392,9 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/2300000/mnf.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,mitv://ns2.hellotvvod.com:9906/ae2f458729f04d45ae0491801d168cbd
+劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_1200.m3u8
+劲爆体育,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 咪咕体育,http://111.13.42.238/PLTV/88888888/224/3221226397/1.m3u8
 咪咕体育,http://111.13.42.238/PLTV/88888888/224/3221226398/1.m3u8
 咪咕体育,http://111.13.42.238/PLTV/88888888/224/3221226383/1.m3u8
@@ -487,6 +492,7 @@ JJ斗地主,http://315600.xyz/jk/dl/douyu.php?id=488743
 梨园戏曲,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 梨园戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+七彩戏剧,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 岭南戏曲,http://113.116.56.252:8181/tsfile/live/1104_1.m3u8
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
