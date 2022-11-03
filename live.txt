@@ -326,6 +326,7 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 TVBS-HD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 TVBS-HD,mitv://45.92.126.18:9906/62541264000b8c2809563c340355f46f
 TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
 东森新闻,rtmp://pull-f5-spe.ixigua.com/live/rtmvmhrttuigcvbyiuokjkgegywefggfbxfbxxvbzgklgqhgsxw
 东森新闻,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/451f0cdd-b2a7-4f08-85d9-d786b6b3423a.m3u8
