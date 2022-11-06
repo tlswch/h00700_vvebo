@@ -1,7 +1,7 @@
 {
     "author": "",
     "homeUrl": "https://www.yoozhibo.com/",
-    "cateManual": {"体育直播": "666"},
+    "cateManual": {"赛事直播": "666"},
 
     // 首页
     "cateUrl": "https://www.yoozhibo.com/",
@@ -13,7 +13,7 @@
     "cateVodId": "/li[last()]/a/@href",
     "cateVodIdR": "",
     // 首页推荐视频的图片
-    "cateVodImg":"''",
+    "cateVodImg":"'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'",
     // 首页推荐视频的简介
     "cateVodMark":"concat(/li[@class='team ht']/strong/text(),/li[@class='team ht']/strong/a/text(),'-',/li[@class='team gt']/strong/text(),/li[@class='team gt']/strong/a/text())",//concat(/li[3]/strong/text(),'vs',/li[5]/strong/text())
  
@@ -25,7 +25,7 @@
 	// 视频名
     "dtName": "/title/text()",
 	// 视频图片
-    "dtImg": "''",
+    "dtImg": "'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'",
     // 视频简介
     "dtDesc": "concat('播放不了CCTV5和CCTV5+频道.会花屏')",
 	
