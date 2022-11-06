@@ -1,5 +1,5 @@
 {
-    "author": "优直播",
+    "author": "",
     "homeUrl": "https://www.yoozhibo.com/",
     "cateManual": {"体育直播": "666"},
 
@@ -27,12 +27,12 @@
 	// 视频图片
     "dtImg": "''",
     // 视频简介
-    "dtDesc": "concat('推荐选择超清或高清观看NBA')",
+    "dtDesc": "concat('不要使用默认的前4个播放源观看')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
 	// 播放源名称
-    "dtFromName":  "'【直播源】'",
+    "dtFromName":  "'【不要使用默认的前4个播放源观看.推荐选择超清直播或高清直播观看】'",
 	// 播放列表节点
     "dtUrlNode": "//div[@class='sig-list a ncp']",
 	// 播放地址节点
