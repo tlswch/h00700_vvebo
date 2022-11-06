@@ -35,7 +35,6 @@
 {"key":"csp_Dy555","name":"影视┃555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"影视┃BTO影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xb_188影视","name":"影视┃188影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://188kan.com/vod-show-id-{cateId}-page-{catePg}.html"},
 {"key":"csp_xb_影视工厂","name":"影视┃影视工厂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_蓝光影院","name":"影视┃蓝光影院","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_神马影视","name":"影视┃神马影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
