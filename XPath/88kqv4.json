@@ -22,14 +22,14 @@
 	// 视频名
     "dtName": "/title/text()",
 	// 视频图片
-    "dtImg": "'http://ys-f.ysepan.com/621545016/119101634/h485U2V3523QLJkfsqlj8a/%E5%B0%81%E9%9D%A2.jpg'",
+    "dtImg": "'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'",
     // 视频简介
-    "dtDesc": "concat('DJ - ','Never underestimate the heart of a champion! ','篮球迷588741862')",
+    "dtDesc": "concat('')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
 	// 播放源名称
-    "dtFromName":  "'【直播源】'",
+    "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
 	// 播放列表节点
     "dtUrlNode": "//div[@class='game-videos-btn-container']",
 	// 播放地址节点
