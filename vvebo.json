@@ -7,7 +7,7 @@
 //http://home.jundie.top:81/top98.json
 //http://111.67.196.181/mtv/meow.txt
 
-"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/1.jar;md5;6C42562F0A92BBE4C150A9E0FB470EAF",
+"spider":"https://agit.ai/00700/vvebo/raw/branch/main/test/vvebo12.jar;md5;C5816E74C0E417E5D19D35A3E5DE6E5F",
 "wallpaper":"https://agit.ai/00700/vvebo/raw/branch/main/wallpaper/03.png",
 //tvbox新版直播格式
 //"lives":[{"name":"直播","type":0,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"}],
@@ -20,7 +20,7 @@
 
 {"key":"csp_XYQBiu_虎牙","name":"网络┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/hy.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"网络┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/dy.json"},
-{"key":"csp_xpath_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan2.json"},
+{"key":"csp_xpath_JRSKan","name":"体育┃赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/jrskan2.json"},
 {"key":"csp_Bili","name":"曲艺┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Bilibili/Bili_%E7%9B%B8%E5%A3%B0.txt"},
 {"key":"DJ-XB-听书网","name":"听书┃只闻其声","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XBiubiu/tingbook.json"},
 
