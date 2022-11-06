@@ -37,7 +37,7 @@
     //演员
     "dtActor": "/li[1]/span/text()",
     // 导演
-    "dtDirector": "concat('DJ - ','Never underestimate the heart of a champion! ')",
+    "dtDirector": "concat('勇士总冠军')",
     "dtDirectorR": "",
     // 视频简介
     "dtDesc": "concat(/li[3]/strong/text(),' VS ',/li[5]/strong/text())",
