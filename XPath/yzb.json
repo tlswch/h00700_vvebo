@@ -27,12 +27,12 @@
 	// 视频图片
     "dtImg": "''",
     // 视频简介
-    "dtDesc": "concat('不要使用默认的前4个播放源观看')",
+    "dtDesc": "concat('播放不了CCTV5和CCTV5+频道.会花屏')",
 	
 	// 播放源节点
     "dtFromNode": "//body",
 	// 播放源名称
-    "dtFromName":  "'【不要使用默认的前4个播放源观看.推荐选择超清直播或高清直播观看】'",
+    "dtFromName":  "'【不要使用默认推荐带括弧的前4个播放源观看.建议选择超清直播或高清直播观看】'",
 	// 播放列表节点
     "dtUrlNode": "//div[@class='sig-list a ncp']",
 	// 播放地址节点
