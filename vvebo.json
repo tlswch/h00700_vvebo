@@ -39,7 +39,7 @@
 {"key":"csp_XYQBiu_万能影院","name":"影视┃万能影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json"},
 {"key":"csp_XYQBiu_凌云韩国","name":"影视┃凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/%e5%87%8c%e4%ba%91%e8%a7%86%e9%a2%91%e9%9f%a9%e5%9b%bd.json"},
 
-{"key":"DJ-XP-88看球","name": "88看球（XP）","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/XPath/88kqv4.json"},
+{"key":"csp_xBPQ_直播吧","name":"直播吧(xBPQ)","type":3,"api":"csp_xBPQ","ext":"{\"站名\":\"体育-zb8\",\"分类url\":\"https://www.zhibo8.net\",\"直接播放\":\"1\",\"分类\":\"体育$空\",\"jiequshuzuqian\":\"class=\\\"match-item\\\"\",\"jiequshuzuhou\":\"</a>\",\"tupianqian\":\"http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png",\"tupianhou\":\"\\\"\",\"biaotiqian\":\"class=\\\"col-home flex\\\">\",\"biaotihou\":\"</div>\",\"tupianqianzhui\":\"空\",\"lianjieqian\":\"href=\\\"\",\"lianjiehou\":\"\\\"\",\"ljqianzhui\":\"空\",\"fubiaotiqian\":\"class=\\\"col-time\\\">\",\"fubiaotihou\":\"</div>\"}"},
 
 {"key":"csp_xpath_007","name":"影视┃007影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/007.json"},
 //{"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/AliKey"},
