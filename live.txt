@@ -293,6 +293,7 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 凤凰资讯,p2p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
 凤凰资讯,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
 凤凰资讯,mitv://ns2.hellotvvod.com:9906/7186e4e47b4743debef7e69b901686c5
+TVBS-HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 TVBS-HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
