@@ -297,6 +297,8 @@ TVBS-HD,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 TVBS-HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 TVBS-HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
+TVBS-HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS-HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS-HD,rtmp://pull-f5-spe.ixigua.com/live/rtmvqpiovjxzoifjegojszxcvlgifvhngliggobiggsvhgchtvbs
 TVBS-HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 TVBS-HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
@@ -327,6 +329,8 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 TVBS-HD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 TVBS-HD,mitv://45.92.126.18:9906/62541264000b8c2809563c340355f46f
 TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
+东森新闻,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 东森新闻,http://iptv.everydaytv.top/taiwanlive.php?id=38
 东森新闻,rtmp://pull-f5-spe.ixigua.com/live/rtmvmhrttuigcvbyiuokjkgegywefggfbxfbxxvbzgklgqhgsxw
