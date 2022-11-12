@@ -10,6 +10,9 @@ json;pk;123456
 //"wallpaper":"https://api.lr-jia.cn/api/dnmm",
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+https://bing.img.run/rand.php
+https://bing.img.run/1920x1080.php
+
 
 //规则集.嗅探默认正则正则未包含到的视频请自行配置rules
 "rules": [ {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]}, {"host":"*", "rule":["huoshan.com", "/item/video/"]}, {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]} ]
