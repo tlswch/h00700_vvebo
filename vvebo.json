@@ -26,6 +26,8 @@
 {"key":"csp_apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_完美看看","name":"影视┃完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_xb_voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/type/{cateId}--------{catePg}---.html"},
+
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_厂长影视","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -33,8 +35,6 @@
 {"key":"csp_Dy555","name":"影视┃555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_饭团影视","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_影视工厂","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_xb_voflix","name":"影视┃voflix","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/type/{cateId}--------{catePg}---.html"},
 
 {"key":"csp_Nmys","name":"影视┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
 {"key":"csp_小纸条源","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.tk/sub/token.txt"},
