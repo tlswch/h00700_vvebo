@@ -27,7 +27,7 @@
 {"key":"csp_完美看看","name":"影视┃完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Free影院","name":"影视┃高清影院","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_溪谷影视","name":"影视┃溪谷影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xigutv.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html"},
+{"key":"csp_溪谷影视","name":"影视┃溪谷影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xigutv.com/index.php/vod/show/id/{catePg}.html"},
 
 {"key":"csp_xb_voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
