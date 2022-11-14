@@ -26,9 +26,9 @@
 {"key":"csp_apple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_完美看看","name":"影视┃完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xb_voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
-{"key":"csp_Free影院","name":"影视┃高清影院","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_厂长资源","name":"影视┃厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/xBPQ/1.json"},
+{"key":"csp_xb_voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_Free影院","name":"影视┃埃克佩迪","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"},
 
 {"key":"csp_快看影视","name":"影视┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"影视┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.11.9:6658"},
