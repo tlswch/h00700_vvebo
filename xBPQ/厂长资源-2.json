@@ -7,7 +7,7 @@
   "数组": "<li>&&</li>",
   "副标题": "span>&&</span>", 
   "简介": "<p>&&</p>",
-  "搜索url": "https://www.czspp.com/xssearch?q={wd}=_all&p={pg}",
+  "搜索url": "https://www.czspp.com/xssearch?q={wd}&f_all&p={pg}",
   "搜索模式": "1",
   "搜索前缀":"/movie/",
 
