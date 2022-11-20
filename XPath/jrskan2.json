@@ -15,7 +15,7 @@
 	  // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//ul[@data-stype='zqlq']",
     //"cateVodName": "/li[@class='lab_events']/span/text()",
-    "cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')",
+    "cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'')",
     "cateVodId": "/li[@class='lab_channel']/a[1]/@href",
     "cateVodIdR": "http://play.sportsteam666.com/play/steam(\\d+).html",
 	//"cateVodIdR": "\\S+/(\\d+).html",
