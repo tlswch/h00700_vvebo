@@ -146,8 +146,8 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 卫视频道,#genre#
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://yfsl.vsd.gehua.net.cn/live/ZheJiangHD_1200.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://60.10.167.88:808/hls/26/index.m3u8
 浙江卫视,http://120.253.104.16:808/hls/106/index.m3u8
 浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
@@ -391,12 +391,10 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_1200.m3u8
-劲爆体育,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000undefined&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 JJ斗地主,http://txtest-xp2p.p2p.huya.com/huyalive/0-0-0-3666366740-10057-A-0-1.xs
