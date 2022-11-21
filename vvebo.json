@@ -50,9 +50,10 @@
 
 "parses":[
 {"name":"如果播放失败或者缓冲时间过长,请手动更换其他解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"M01","type":0,"url":"http://jx.amtv.ga/?url="},
-{"name":"M02","type":0,"url":"https://jx.cainisi.cf/?v="},
-{"name":"M03","type":0,"url":"https://www.ckmov.vip/api.php?url="},
+{"name":"M01","type":0,"url":"https://jx.cainisi.cf/?v="},
+{"name":"M06","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"M07","type":0,"url":"https://okjx.cc/?url="},
+{"name":"M08","type":0,"url":"https://www.mtosz.com/m3u8.php?url="},
 {"name":"M04","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"M05","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"flag":["qq","腾讯","imgo","mgtv","芒果"]}}],
 
