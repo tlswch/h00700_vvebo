@@ -321,6 +321,18 @@ https://bing.img.run/1920x1080.php
 //{"name":"Json轮询","type":2,"url":"Sequence"},
 
 
+{"name":"M05","type":0,"url":"https://json.legendwhb.cn/llq/?url="},
+{"name":"M06","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"M07","type":0,"url":"https://okjx.cc/?url="},
+{"name":"M08","type":0,"url":"https://www.mtosz.com/m3u8.php?url="},
+{"name":"M09","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"M10","type":0,"url":"https://wds.ecsxs.com/225173.html?url="},
+{"name":"M11","type":0,"url":"https://freejx.rx88.top:1234/?url="},
+{"name":"M12","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"M13","type":0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name":"M14","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+
+
 https://jx.aidouer.net/?url=
 https://jx.playerjy.com/?url=
 https://api.okjx.cc:3389/jx.php?url=
