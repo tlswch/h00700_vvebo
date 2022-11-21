@@ -41,7 +41,6 @@
 {"key":"csp_Lezhu","name":"影视┃乐猪","type":3,"api":"csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan","name":"影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"影视┃蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Fantuan","name":"影视┃饭团","type":3,"api":"csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 
