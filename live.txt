@@ -384,6 +384,8 @@ TVBS-HD,mitv://ns2.hellotvvod.com:9906/f1ab1dd089f5423bbd03d6704397f956
 东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
 东森新闻,mitv://ns2.hellotvvod.com:9906/0501fdfb0a3643288bd4b0838ad3c7bc
 东森新闻,mitv://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 
 
 体育频道,#genre#
