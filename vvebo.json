@@ -1,11 +1,11 @@
 {
 //备用配置
-//唐三https://hutool.ml/tang #or# https://pandora2277.github.io/tang.bmp
+//唐三https://hutool.ml/tang#or#https://pandora2277.github.io/tang.bmp
 //神器http://xn--m7r412advb92j21st65a.tk/pz.json
 //巧技http://pandown.pro/tvbox/tvbox.json
 //菜妮https://tvbox.cainisi.cf
 //猫影http://111.67.196.181/mtv/meow.txt
-//饭硬http://xxooo.eu.org/xx/o #or# https://xn--t75a.eu.org/xx/o
+//饭硬http://xxooo.eu.org/xx/o#or#https://xn--t75a.eu.org/xx/o
 //道长http://101.34.67.237/config/3
 //于俊http://home.jundie.top:81/top98.json
 //终南https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
@@ -40,12 +40,12 @@
 {"key":"csp_Ysgc","name":"影视┃影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Zxzj","name":"影视┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"影视┃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"影视┃厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Lib","name": "影视┃Lib影视","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Bttoo","name":"影视┃Bto影视","type":3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Lib","name":"影视┃Lib影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"影视┃Bto影视","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"影视┃剧荒影视","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Gitcafe","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"}],
 
