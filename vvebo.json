@@ -16,11 +16,11 @@
 
 "sites":[
 //暂时失效,或不稳定,或不能被搜索的常用爬虫源
-//{"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Czsapp","name":"影视┃厂长资源","type":3,"api":"csp_Czsapp",searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_LiteApple","name":"影视┃小苹果源","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_SP293","name":"影视┃293影视","type":3,"api":"csp_SP293","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP293","name":"影视┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Jianying","name":"影视┃简影影视","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
-//{"key":"csp_Zjdr","name":"影视┃追剧达人","type":3,"api":"csp_Zjdr","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Zjdr","name":"影视┃追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Mjxq","name":"影视┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Dm84","name":"动漫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Anime1","name":"动漫┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
