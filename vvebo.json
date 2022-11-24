@@ -37,9 +37,9 @@
 {"key":"csp_1hxt","name":"影视┃影视大全","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1hxt.com/vodshow/{cateId}--------{catePg}---.html"},
 
 
-{"key":"Shijueyy","name":"影视┃十月影视","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.shijueyy.com/v_show/{cateId}--------{catePg}---.html"},
+{"key":"Shijueyy","name":"影视┃十月影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.shijueyy.com/v_show/{cateId}--------{catePg}---.html"},
 
-{"key":"Panghuys","name":"影视┃胖虎影视","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
+{"key":"Panghuys","name":"影视┃胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
 
 
 
