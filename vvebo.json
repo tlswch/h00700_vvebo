@@ -36,6 +36,13 @@
 {"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
 {"key":"csp_1hxt","name":"影视┃影视大全","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1hxt.com/vodshow/{cateId}--------{catePg}---.html"},
 
+
+{"key":"Shijueyy","name":"影视┃十月影视","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.shijueyy.com/v_show/{cateId}--------{catePg}---.html"},
+
+{"key":"Panghuys","name":"影视┃胖虎影视","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
+
+
+
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"影视┃555影视","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
