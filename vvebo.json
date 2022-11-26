@@ -42,22 +42,9 @@
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 
 
-{
-"key":"gc-JS-DR2",
-"name":"2",
-"type":3,
-"searchable":2,
-"quickSearch":1,
-"api":"https://raw.iqiq.io/huxuanping/js/main/dr.js?rule=https://jsd.cdn.zzko.cn/gh/huxuanping/js@main/dr/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-},
-{
-"key":"gc-JS-DR1",
-"name":"1",
-"type":3,
-"searchable":2,
-"quickSearch":1,
-"api":"https://raw.iqiq.io/huxuanping/js/main/dr.js?rule=https://raw.iqiq.io/huxuanping/js/main/dr/%E7%9F%B3%E6%A6%B4%E5%BD%B1%E9%99%A2.js"
-},
+{"key":"drpy_js_2099","name":"1","type":3,"api":"https://raw.iqiq.io/huxuanping/js/main/dr.js","ext":"https://jsd.cdn.zzko.cn/gh/huxuanping/js@main/dr/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"},
+
+{"key":"drpy_js_2093","name":"2","type":3,"api":"https://raw.iqiq.io/huxuanping/js/main/dr.js","ext":"https://raw.iqiq.io/huxuanping/js/main/dr/%E7%9F%B3%E6%A6%B4%E5%BD%B1%E9%99%A2.js"},
 
 
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
