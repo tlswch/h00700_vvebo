@@ -17,7 +17,7 @@
     //"cateVodName": "/li[@class='lab_events']/span/text()",
     "cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'')",
     "cateVodId": "/li[@class='lab_channel']/a[1]/@href",
-    "cateVodIdR": "http://play.sportsteam666.com/play/steam(\\d+).html",
+    "cateVodIdR": "http://play.sportsteam777.com/play/steam(\\d+).html",
 	//"cateVodIdR": "\\S+/(\\d+).html",
     "cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
     "cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
@@ -25,7 +25,7 @@
 	"cate": "dj",
 	// 详情页地址 用于获取详情页信息 及 播放列表和地址
     //"dtUrl": "{vid}",
-	"dtUrl": "http://play.sportsteam666.com/play/steam{vid}.html",
+	"dtUrl": "http://play.sportsteam777.com/play/steam{vid}.html",
 	// 详情节点
     "dtNode": "//ul[@data-stype='zqlq']",
 	// 视频名
