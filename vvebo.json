@@ -39,6 +39,8 @@
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
 
+{"key":"csp_Kmys","name":"影视┃11影视","type":3,"api":"csp_Kmys","searchable":"1","quickSearch":"1","filterable":"1","jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/custom_spider.jar;md5;07A3F39D2206CDF129E7C811F4188064"},
+
 {"key":"csp_Wmkk","name":"影视┃完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
