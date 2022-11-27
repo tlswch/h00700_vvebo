@@ -42,8 +42,6 @@
 {"key":"csp_Freeok","name":"影视┃西诺尔兰","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 
-{"key":"csp_zz","name":"影视┃qq","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.chaojidianshi.net/zhibo/33.html"},
-
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Gitcafe","name":"阿里┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"}],
