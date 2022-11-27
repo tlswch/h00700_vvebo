@@ -22,6 +22,7 @@
 //{"key":"csp_Douyu","name":"网络┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/dy.json"},
 //{"key":"csp_Huya","name":"网络┃虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XYQBiu/hy.json"},
 //{"key":"csp_Alist","name":"云端┃Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/Alist.json"},
+//{"key":"csp_Dami","name":"影视┃大米星球","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dami2.me/vodshow/{cateId}--------{catePg}---.html"},
 
 {"key":"csp_Kunyu77","name":"手机端┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"电视端┃图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
@@ -40,16 +41,6 @@
 {"key":"csp_Voflix","name":"影视┃沃利克斯","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.voflix.com/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_Freeok","name":"影视┃西诺尔兰","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_Cokemv","name":"影视┃可乐影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-
-
-{"key":"csp_xBPQ_1","name":"1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/subaibai.json"},
-
-{"key":"csp_xBPQ_2","name":"2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/dmxq.json"},
-
-{"key":"csp_11","name":"11","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.subaibaiys.com/{cateId}/page/{catePg}"},
-
-{"key":"csp_22","name":"22","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dami2.me/vodshow/{cateId}--------{catePg}---.html"},
-
 
 {"key":"csp_Lgyy","name":"影视┃蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"影视┃饭团影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
