@@ -152,6 +152,7 @@ CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 CCTV-16,http://124.220.17.172/as.php?id=16
 CCTV-4K,https://v.bjiptv.eu.org/4.php
+CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 
 
 卫视频道,#genre#
