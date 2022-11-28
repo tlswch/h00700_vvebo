@@ -150,10 +150,8 @@ CCTV-13,http://39.134.66.48/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-13,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226691/10000100000000060000000006385281_0.smil
 CCTV-13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
-CCTV-16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV-16,http://124.220.17.172/as.php?id=16
 CCTV-4K,https://v.bjiptv.eu.org/4.php
-CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 卫视频道,#genre#
