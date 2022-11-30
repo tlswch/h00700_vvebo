@@ -83,9 +83,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 体育频道,#genre#
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
 劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_1200.m3u8
