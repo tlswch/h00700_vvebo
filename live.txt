@@ -64,14 +64,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 辽宁卫视,http://yfsl.vsd.gehua.net.cn/live/LiaoNingHD_1200.m3u8
 辽宁卫视,http://124.220.17.172/as.php?id=41
 辽宁卫视,http://60.10.167.88:808/hls/28/index.m3u8
-
-
-地方频道,#genre#
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
-辽宁都市,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226079/000000000cax.smil
-辽宁都市,rtsp://60.22.151.41/PLTV/88888888/224/0/3221226079/000000000cax.smil
-辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
-辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000068
 
 
 港台频道,#genre#
