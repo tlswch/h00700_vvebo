@@ -65,6 +65,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 辽宁卫视,http://124.220.17.172/as.php?id=41
 辽宁卫视,http://60.10.167.88:808/hls/28/index.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
+辽宁都市,http://lu1.cc/a/play/lny.php?id=lnds
 
 
 港台频道,#genre#
