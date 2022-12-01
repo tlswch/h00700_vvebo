@@ -2,40 +2,50 @@
 CCTV-1,http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_1200.m3u8
 CCTV-1,http://124.220.17.172/as.php?id=1
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
+CCTV-1,http://live.tvfix.org/hls/cctv1hd.m3u8
 
 CCTV-2,http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_1200.m3u8
 CCTV-2,http://124.220.17.172/as.php?id=2
 CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
+CCTV-2,http://live.tvfix.org/hls/cctv2hd.m3u8
 
 CCTV-5,http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_1200.m3u8
 CCTV-5,http://124.220.17.172/as.php?id=5
 CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
 CCTV-5,http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+CCTV-5,http://live.tvfix.org/hls/cctv5hd.m3u8
 
 CCTV-5+,http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8
 CCTV-5+,http://124.220.17.172/as.php?id=5p
 CCTV-5+,http://60.10.167.88:808/hls/17/index.m3u8
+CCTV-5+,http://live.tvfix.org/hls/cctv5phd.m3u8
 
 CCTV-6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8
 CCTV-6,http://124.220.17.172/as.php?id=6
 CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
+CCTV-6,http://live.tvfix.org/hls/cctv6hd.m3u8
 
 CCTV-10,http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_1200.m3u8
 CCTV-10,http://124.220.17.172/as.php?id=10
 CCTV-10,http://hls.ye23.vip/hls/cctv10hd.m3u8
+CCTV-10,http://live.tvfix.org/hls/cctv10hd.m3u8
 
 CCTV-12,http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_1200.m3u8
 CCTV-12,http://124.220.17.172/as.php?id=12
 CCTV-12,http://hls.ye23.vip/hls/cctv12hd.m3u8
+CCTV-12,http://live.tvfix.org/hls/cctv12hd.m3u8
 
 CCTV-13,http://yfsl.vsd.gehua.net.cn/live/CCTV13HD_1200.m3u8
 CCTV-13,http://124.220.17.172/as.php?id=13
 CCTV-13,http://hls.ye23.vip/hls/cctv13hd.m3u8
+CCTV-13,http://live.tvfix.org/hls/cctv13hd.m3u8
 
 CCTV-16,http://124.220.17.172/as.php?id=16
 CCTV-16,http://hls.ye23.vip/hls/cctv16hd.m3u8
+CCTV-16,http://live.tvfix.org/hls/cctv16hd.m3u8
 CCTV-4K,https://v.bjiptv.eu.org/4.php
 CCTV-4K,http://159.75.85.63:8280/cctv4k.php
+CCTV-4K,http://live.tvfix.org/hls/cctv4k.m3u8
 
 
 卫视频道,#genre#
@@ -91,6 +101,7 @@ CCTV-4K,http://159.75.85.63:8280/cctv4k.php
 五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://fuyuxiang.51vip.biz:4402/rtp/239.45.3.210:5140
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育,http://live.tvfix.org/hls/wxtyhd.m3u8
 劲爆体育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_1200.m3u8
 劲爆体育,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000undefined&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
