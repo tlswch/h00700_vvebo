@@ -20,7 +20,7 @@
 {"key":"csp_Nmys","name":"影视┃剧集倒叙","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/XPath/nmys.json"},
 
 
-{"key":"csp_Wybg666","name":"影视┃影视之家","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.citydy.com/show/id-{cateId}/page/{catePg}.html"},
+{"key":"csp_22226","name":"影视┃2222","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.citydy.com/show/id-{cateId}/page/{catePg}.html"},
 
 
 {"key":"csp_Lezhu","name":"影视┃乐猪影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},
